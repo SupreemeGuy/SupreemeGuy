@@ -34,6 +34,6 @@
 
 </details>
 
-[website]: https://modern-gaming.net/user/3388-supreemeguy/
+[website]: https://steamcommunity.com/id/supreemeplayer/
 [youtube]: https://www.youtube.com/channel/UCN7jLVtb4NqgwbfFQCb9RWw/
 [instagram]: /
