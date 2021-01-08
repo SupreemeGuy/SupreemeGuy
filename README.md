@@ -3,9 +3,8 @@
 ## I'm a Student, Gamer and Developer!
 
 - 🔭 I’m currently working on a Garry's Mod Gamemode named Mission: Infected
-- 🌱 I’m currently learning GLua 💻
-- 🥅 2020 Goals: Learning GLua successfully ✔️
-- ⚡ Fun fact: I love to illustrate and play basketball
+- 🥅 2021 Goals: Improve my GLua SKills ✔️
+- ⚡ Fun fact: I love to code and illustrate
 
 ### Connect with me:
 
