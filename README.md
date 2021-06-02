@@ -1,6 +1,6 @@
 ### Hi there 👋,  
 #### Welcome to my GitHub profile!
-![Welcome to my GitHub profile!](https://i.imgur.com/1MMsmmY.png)
+![Welcome to my GitHub profile!](https://i.imgur.com/mpSz6ct.png)
 
 I am a student from Germany and like to code.
 
