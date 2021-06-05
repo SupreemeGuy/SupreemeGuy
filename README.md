@@ -4,7 +4,7 @@
 
 I am a student from Germany and like to code.
 
-Skills: LUA / JS / HTML / CSS
+Skills: Lua / JS / HTML / CSS
 
 - 🔭 I’m currently working on a gamemode for the game Garry's Mod 
 - 🌱 I’m currently learning C# 
