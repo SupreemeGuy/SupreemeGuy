@@ -9,10 +9,10 @@
 ## My current projects:
 
 ### Lua
-- [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/) [Addon](https://github.com/SupreemeGuy/advanced-health)
+- ([Garry's Mod](https://gmod.facepunch.com)) [Addon](https://github.com/SupreemeGuy/advanced-health)
 
 ### HTML / CSS / Javascript            
-- [Valorant](https://valorant.gg) [Stats Tracker](https://github.com/SupreemeGuy/advanced-tracker)
+- ([Valorant](https://valorant.gg)) [Stats Tracker](https://github.com/SupreemeGuy/advanced-tracker)
 
 ## Languages I'm currently learning/working with:
 
