@@ -5,8 +5,7 @@
 - 💻 Hobby programmer
 - 🎮 Passionate gamer
 
-
-## My current projects:
+## 🔨 My current projects:
 
 ### Lua
 - [Garry's Mod](https://gmod.facepunch.com) - [Addon](https://github.com/SupreemeGuy/advanced-health)
@@ -14,7 +13,7 @@
 ### HTML / CSS / Javascript            
 - [Valorant](https://valorant.gg) - [Stats Tracker](https://github.com/SupreemeGuy/advanced-tracker)
 
-## Languages I'm currently learning/working with:
+## 📖 Languages I'm currently learning/working with:
 
 <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
