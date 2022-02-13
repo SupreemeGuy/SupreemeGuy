@@ -8,7 +8,7 @@
 ## 🔨 My current projects:
 
 ### Lua
-- [Garry's Mod](https://gmod.facepunch.com) - [Addon](https://github.com/SupreemeGuy/advanced-health)
+- [Garry's Mod](https://gmod.facepunch.com) - Gamemode
 
 ### HTML / CSS / Javascript            
 - [Valorant](https://valorant.gg) - [Stats Tracker](https://github.com/SupreemeGuy/advanced-tracker)
