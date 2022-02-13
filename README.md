@@ -11,7 +11,7 @@
 - [Garry's Mod](https://gmod.facepunch.com) - Gamemode
 
 ### HTML / CSS / Javascript            
-- [Valorant](https://valorant.gg) - [Stats Tracker](https://github.com/SupreemeGuy/advanced-tracker)
+- [Valorant](https://valorant.gg) - Stats Tracker
 
 ## 📖 Languages I'm currently learning/working with:
 
