@@ -5,11 +5,6 @@
 - 💻 Hobby programmer
 - 🎮 Passionate gamer
 
-## 🔨 My current projects:
-
-### Lua
-- [Garry's Mod](https://gmod.facepunch.com) - Gamemode
-
 ## 📖 Languages I'm currently learning/working with:
 
 <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
