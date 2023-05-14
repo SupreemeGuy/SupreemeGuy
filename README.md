@@ -1,4 +1,4 @@
-# Hi there, I'm Elyas! 👋
+# Hi there! 👋
 
 ## 👤 About me:
 - 🌎 16 y/o student from Berlin, Germany
