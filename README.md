@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ## 👤 About me:
-- 🌎 16 y/o student from Berlin, Germany
+- 🌎 17 y/o student from Berlin, Germany
 - 💻 Hobby programmer
 - 🎮 Passionate gamer
 
